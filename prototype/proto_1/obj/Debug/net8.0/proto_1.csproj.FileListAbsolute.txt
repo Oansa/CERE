@@ -1,0 +1,4 @@
+/home/bryan/Desktop/CERE/prototype/proto_1/obj/Debug/net8.0/proto_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/bryan/Desktop/CERE/prototype/proto_1/obj/Debug/net8.0/proto_1.AssemblyInfoInputs.cache
+/home/bryan/Desktop/CERE/prototype/proto_1/obj/Debug/net8.0/proto_1.AssemblyInfo.cs
+/home/bryan/Desktop/CERE/prototype/proto_1/obj/Debug/net8.0/proto_1.csproj.CoreCompileInputs.cache
