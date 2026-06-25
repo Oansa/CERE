@@ -18,9 +18,9 @@ namespace BuildingProject
     Console.WriteLine("Generating building geometry... this might take a moment.");
 
    Voxels myBuilding = BuildingGenerator.GenerateBuilding(
-        baseArea: 400.0f,     
-        numberOfRooms: 12,    
-        floors: 3,            
+        baseArea: 1000.0f,     
+        numberOfRooms: 70,    
+        floors: 6,            
         isBoxy: true,        
         isOrganic: false,      
         roomHeight: 3.0f,
